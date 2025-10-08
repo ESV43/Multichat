@@ -1,0 +1,7 @@
+{
+  "name": "Multi-Agent AI Chat",
+  "description": "An advanced AI chat interface where multiple agents collaborate to provide a refined, synthesized response to user queries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
